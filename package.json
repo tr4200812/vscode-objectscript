@@ -1859,7 +1859,7 @@
     "node-fetch-cjs": "^3.3.2",
     "vscode-cache": "^0.3.0",
     "@vscode/debugadapter": "^1.61.0",
-    "@vscode/debugprotocol": "^1.61.0",
+    "@vscode/debugprotocol": "^1.68.0",
     "vscode-extension-telemetry": "^0.1.6",
     "ws": "^8.14.2"
   },

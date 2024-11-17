@@ -1860,7 +1860,7 @@
     "vscode-cache": "^0.3.0",
     "@vscode/debugadapter": "^1.61.0",
     "@vscode/debugprotocol": "^1.61.0",
-    "vscode-extension-telemetry": "^0.1.6",
+    "vscode-extension-telemetry": "^0.4.5",
     "ws": "^8.14.2"
   },
   "extensionDependencies": [

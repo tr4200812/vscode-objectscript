@@ -1851,7 +1851,7 @@
   },
   "dependencies": {
     "@xmldom/xmldom": "^0.8.8",
-    "core-js": "^3.6.5",
+    "core-js": "^3.38.1",
     "iconv-lite": "^0.6.0",
     "istextorbinary": "^6.0.0",
     "minimatch": "^9.0.3",
